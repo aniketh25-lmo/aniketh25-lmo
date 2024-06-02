@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniketh25-lmo
-- 👀 I’m interested in ... CP, Quantum Computing..
-- 🌱 I’m currently learning ... JAVAFX, FULLSTACK, FLUTTERFLOW
+- 👀 I’m interested in ... CP, Machine Learning..
+- 🌱 I’m currently learning ..., MERN FULLSTACK,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email me@ anikethtirupate25@gmail.com
 - 😄 Pronouns: ... He/Him
